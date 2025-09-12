@@ -93,7 +93,7 @@ Quiz Window
 ![Login with Credentials](https://github.com/NKuladeep/OnlineQuizApp/blob/67bab37729b6029c011e284fe0af202c5dfebc40/Templates/Login%20with%20Credentials.png)
 
 ### 🔹 Main Menu
-![Main Menu]()
+![Main Menu](https://github.com/NKuladeep/OnlineQuizApp/blob/4dae967d00bfe619f23a133a6b62a13f0a5b9378/Templates/Main%20Menu.png)
 
 ### 🔹 Quiz Selection
 ![Quiz Selection]()
