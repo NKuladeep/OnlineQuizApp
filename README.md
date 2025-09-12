@@ -102,7 +102,7 @@ Quiz Window
 ![Quiz Question](https://github.com/NKuladeep/OnlineQuizApp/blob/ec2faed9560ac68e35e2616e4be4797501de655e/Templates/Quiz%20Question.png)
 
 ### 🔹 Quiz Completed
-![Quiz Completed]()
+![Quiz Completed](https://github.com/NKuladeep/OnlineQuizApp/blob/c7c7ad9e873e0d0fe17ef0a3ad688bf05df40dad/Templates/Quiz%20Completed.png)
 
 🚀 Future Improvements
 ```
