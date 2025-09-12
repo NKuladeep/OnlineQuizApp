@@ -85,8 +85,24 @@ CREATE TABLE results (
 ```
 📸 Screenshots
 Quiz Window
+
 ### 🔹 Login Page
-![Login Page]()
+![Login Page](https://github.com/NKuladeep/OnlineQuizApp/blob/9b0dc81132a61490f11be148a4d245557f7e0e9d/Templates/Login%20Page.png)
+
+### 🔹 Login with Credentials
+![Login with Credentials]()
+
+### 🔹 Main Menu
+![Main Menu]()
+
+### 🔹 Quiz Selection
+![Quiz Selection]()
+
+### 🔹 Quiz Question
+![Quiz Question]()
+
+### 🔹 Quiz Completed
+![Quiz Completed]()
 
 🚀 Future Improvements
 ```
