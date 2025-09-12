@@ -99,7 +99,7 @@ Quiz Window
 ![Quiz Selection](https://github.com/NKuladeep/OnlineQuizApp/blob/4d406fcad55e26124cb6e78553f5b0b150620468/Templates/Quiz%20Selection.png)
 
 ### 🔹 Quiz Question
-![Quiz Question]()
+![Quiz Question](https://github.com/NKuladeep/OnlineQuizApp/blob/ec2faed9560ac68e35e2616e4be4797501de655e/Templates/Quiz%20Question.png)
 
 ### 🔹 Quiz Completed
 ![Quiz Completed]()
